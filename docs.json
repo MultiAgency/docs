@@ -34,7 +34,6 @@
           {
             "group": "Projects",
             "expanded": true,
-            "root": "platform/configuration/index",
             "pages": [
               "projects/hire"
             ]
@@ -42,7 +41,6 @@
           {
             "group": "Contributors",
             "expanded": true,
-            "root": "platform/administration/index",
             "pages": [
               "contributors/join",
               "contributors/assign",
